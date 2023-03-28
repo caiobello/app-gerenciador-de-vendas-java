@@ -13,4 +13,4 @@ O código é composto por uma classe principal chamada GerenciadorDeVendas, que 
 
 O botão "Adicionar" adiciona um produto à lista de produtos. O botão "Vender" finaliza a venda e limpa a lista. Quando um produto é adicionado, o aplicativo calcula o subtotal e atualiza o total da venda. O total é exibido em uma label na tela.
 
-# Dev. Caio Bello
+### Dev. Caio Bello
